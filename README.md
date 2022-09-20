@@ -1,12 +1,13 @@
 ### Hi there ,I'm Bharathkumar M S 👋
 I'm a Data science enthusiast!
 
-Connect with me:
+Connect with me:[linkedin](https://www.linkedin.com/in/bharathkumar-m-s-1736221b0/)
 
-### My interests:
-. Python
-. Web Development
-. Machine learning
+## My Skills
+- Python
+- SQL
+- Data Science
+- Machine learning
 
 <!---
 Bharathkumar-ms/Bharathkumar-ms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
