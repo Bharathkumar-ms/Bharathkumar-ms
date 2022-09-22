@@ -10,8 +10,9 @@ I'm a Data science enthusiast!
 - Machine learning
 
 # Projects
-**1.Car price prediction**:[link]
-**2.Email spam classifier**:[link](https://email-spam-classifier-5.herokuapp.com/)
+**1.Car price prediction**:**[link]   
+
+**2.Email spam classifier**:**[link](https://email-spam-classifier-5.herokuapp.com/)**
 
 
 
