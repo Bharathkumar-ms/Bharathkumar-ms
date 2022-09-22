@@ -9,6 +9,13 @@ I'm a Data science enthusiast!
 - Data Science
 - Machine learning
 
+# Projects
+**1.Car price prediction**:[link]
+**2.Emai spam classifier**:[link]
+
+
+
+
 <!---
 Bharathkumar-ms/Bharathkumar-ms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
