@@ -10,11 +10,15 @@ I'm a Data science enthusiast!
 - Machine learning
 
 # Projects
-**1.Car price prediction**:**[[link]](https://car-price-prediction-msb1.herokuapp.com/)**
+**1.Flight fare prediction**:**[[link]](https://flight-fare-prediction-msb.herokuapp.com/)**
 
-**2.Email spam classifier**:**[[link]](https://email-spam-classifier-5.herokuapp.com/)**
+**2.Car price prediction**:**[[link]](https://car-price-prediction-msb1.herokuapp.com/)**
 
-**3.Flipkart review **:**[[link]](https://flipkart-review-scrapper5.herokuapp.com/)**
+**3.Email spam classifier**:**[[link]](https://email-spam-classifier-5.herokuapp.com/)**
+
+**4.Flipkart review **:**[[link]](https://flipkart-review-scrapper5.herokuapp.com/)**
+
+
 
 
 
