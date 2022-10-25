@@ -1,7 +1,7 @@
 ### Hi there ,I'm Bharathkumar M S 👋
 I'm a Data science enthusiast!
 
-**Connect with me:** [linkedin](https://www.linkedin.com/in/bharathkumar-m-s-1736221b0/)
+**Connect with me:** [[linkedin]](https://www.linkedin.com/in/bharathkumar-m-s-1736221b0/)
 
 ## My Skills
 - Python
