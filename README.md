@@ -10,7 +10,7 @@ I'm a Data science enthusiast!
 - Machine learning
 
 # Projects
-**1.Flight fare prediction**:**[[link]](https://flight-fare-prediction-msb.herokuapp.com/)**
+**1.Flight fare prediction**:**[[link]](https://web-production-cec8.up.railway.app/)**
 
 **2.Car price prediction**:**[[link]](https://car-price-prediction-msb1.herokuapp.com/)**
 
