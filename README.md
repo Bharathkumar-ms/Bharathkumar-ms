@@ -12,7 +12,7 @@ I'm a Data science enthusiast!
 # Projects
 **1.Flight fare prediction**:**[[link]](https://web-production-cec8.up.railway.app/)**
 
-**2.Car price prediction**:**[[link]](https://car-price-prediction-msb1.herokuapp.com/)**
+**2.Car price prediction**:**[[link]](https://web-production-d5f4.up.railway.app/)**
 
 **3.Email spam classifier**:**[[link]](https://email-spam-classifier-5.herokuapp.com/)**
 
