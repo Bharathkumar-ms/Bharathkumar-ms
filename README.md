@@ -14,7 +14,7 @@ I'm a Data science enthusiast!
 
 **2.Car price prediction**:**[[link]](https://web-production-d5f4.up.railway.app/)**
 
-**3.Email spam classifier**:**[[link]](https://email-spam-classifier-5.herokuapp.com/)**
+**3.Email spam classifier**:**[[link](https://web-production-dcbb.up.railway.app/)**
 
 **4.Flipkart review **:**[[link]](https://flipkart-review-scrapper5.herokuapp.com/)**
 
