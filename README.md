@@ -10,9 +10,9 @@ I'm a Data science enthusiast!
 - Machine learning
 
 # Projects
-**1.Flight fare prediction**:**[[link]](https://web-production-cec8.up.railway.app/)**
+**1.Flight fare prediction**:**[[link]](https://bharathkumar-ms-flight-fare-prediction1-app-y85b9k.streamlit.app/)**
 
-**2.Car price prediction**:**[[link]](https://web-production-d5f4.up.railway.app/)**
+**2.Car price prediction**:**[[link]](https://bharathkumar-ms-car-price-prediction-streamlit-app-ne1bnu.streamlit.app/)**
 
 **3.Email spam classifier**:**[[link]](https://web-production-dcbb.up.railway.app/)**
 
