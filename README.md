@@ -14,9 +14,11 @@ I'm a Data science enthusiast!
 
 **2.Car price prediction**:**[[link]](https://bharathkumar-ms-car-price-prediction-streamlit-app-ne1bnu.streamlit.app/)**
 
-**3.Email spam classifier**:**[[link]](https://web-production-dcbb.up.railway.app/)**
+**3.Plant Disease Classification**:**[[link]](https://bharathkumar-ms-plant-disease-classification-1-home-1gqdd4.streamlit.app/)**
 
-**4.Flipkart review **:**[[link]](https://flipkart-review-scrapper5.herokuapp.com/)**
+**4.Email spam classifier**:**[[link]](https://web-production-dcbb.up.railway.app/)**
+
+**5.Flipkart review **:**[[link]](https://flipkart-review-scrapper5.herokuapp.com/)**
 
 
 
