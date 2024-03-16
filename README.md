@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Bharathkumar M S <br>👀 I'm a Data Science Enthusiast!.<br>🌱 I’m currently working as Data Science Intern.<br>📫 How to reach me? You can contact me on any of the socials listed below.
+👋 Hi, I’m **Bharathkumar M S** <br>👀 I'm a Data Science Enthusiast!.<br>🌱 I’m currently working as Data Science Intern.<br>📫 How to reach me? You can contact me on any of the socials listed below.
 
 
 ## 🌐 Socials:
