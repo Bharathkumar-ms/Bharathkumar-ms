@@ -18,9 +18,6 @@
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=bharathkumar-ms&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bharathkumar-ms&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
-
 
 
 ## My Skills
