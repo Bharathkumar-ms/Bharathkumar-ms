@@ -18,8 +18,6 @@
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=bharathkumar-ms&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Bharathkumar's Stats](https://github-readme-stats.vercel.app/api?username=bharathkumar-ms&theme=react&show_icons=true&hide_border=false&count_private=true)
-![Bharathkumar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkumar-ms&theme=react&show_icons=true&hide_border=false&hide_progress=true)
 
 ## My Skills
 - Python
