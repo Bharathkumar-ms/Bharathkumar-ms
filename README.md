@@ -30,15 +30,17 @@
 - Power BI
 
 # Projects
-**1.Flight fare prediction**:**[[link]](https://flight-fare-prediction.streamlit.app/)**
+**1.Medical Chatbot**:**[[link]](https://medical-chatbot-bharathkumarms.streamlit.app/)**
 
-**2.Car price prediction**:**[[link]](https://car-price-prediction1.streamlit.app/)**
+**2.Flight fare prediction**:**[[link]](https://flight-fare-prediction.streamlit.app/)**
 
-**3.Plant Disease Classification**:**[[link]](https://bharathkumar-ms-plant-disease-classification-1-home-1gqdd4.streamlit.app/)**
+**3.Car price prediction**:**[[link]](https://car-price-prediction1.streamlit.app/)**
 
-**4.SMS spam classifier**:**[[link]](https://sms-spam-classifier-1.streamlit.app/)**
+**4.Plant Disease Classification**:**[[link]](https://bharathkumar-ms-plant-disease-classification-1-home-1gqdd4.streamlit.app/)**
+
+**5.SMS spam classifier**:**[[link]](https://sms-spam-classifier-1.streamlit.app/)**
  
-**5.Flipkart review **:**[[link]](https://flipkart-review-scrapper5.herokuapp.com/)**
+**6.Flipkart review **:**[[link]](https://flipkart-review-scrapper5.herokuapp.com/)**
 
 
 
